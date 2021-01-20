@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./src/assets/logo.svg" alt="GitHub Explorer" width="500px">
+  <img src="./src/assets/logo.svg" alt="GitHub Explorer" width="700px">
 </h1>
 
 <p align="center">
@@ -22,9 +22,9 @@
 
 <br>
 
-## 🐱 The Project:
+## 🐱 About the project:
 
-The GitHub Explorer is a project made during a Bootcamp created by [RocketSeat](https://rocketseat.com.br/) called GoStack. Its goal is to list GitHub repositories and their opened issues. 
+The GitHub Explorer is a project made during a Bootcamp created by [Rocketseat](https://rocketseat.com.br/) called GoStack. Its goal is to list GitHub repositories and their opened issues. 
 
 ![dashboard](https://user-images.githubusercontent.com/53796370/105123232-7184ac00-5ab6-11eb-867a-dae70b4ffee8.png)
 ![gif](https://user-images.githubusercontent.com/53796370/105123464-e2c45f00-5ab6-11eb-8ef1-1ecff97c305c.gif)
@@ -52,7 +52,7 @@ Clone the project: `git clone https://github.com/LiajuX/GoStack-GithubExplorer`
 
 <br>
 
-💻 Run the following commands to execute it:
+💻 Execute the following commands to run the application:
 
 ````zsh
 
