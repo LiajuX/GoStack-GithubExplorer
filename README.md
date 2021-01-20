@@ -24,7 +24,7 @@
 
 ## 🐱 The Project:
 
-The GitHub Explorer is a project made during a Bootcamp created by Rocketseat called GoStack. Its goal is to list GitHub repositories and their opened issues. 
+The GitHub Explorer is a project made during a Bootcamp created by [RocketSeat](https://rocketseat.com.br/) called GoStack. Its goal is to list GitHub repositories and their opened issues. 
 
 ![dashboard](https://user-images.githubusercontent.com/53796370/105123232-7184ac00-5ab6-11eb-867a-dae70b4ffee8.png)
 ![gif](https://user-images.githubusercontent.com/53796370/105123464-e2c45f00-5ab6-11eb-8ef1-1ecff97c305c.gif)
@@ -52,7 +52,7 @@ Clone the project: `git clone https://github.com/LiajuX/GoStack-GithubExplorer`
 
 <br>
 
-💻 Run the following commands to execute the project:
+💻 Run the following commands to execute it:
 
 ````zsh
 
