@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./src/assets/logo.svg" alt="GitHub Explorer" width="700px">
+  <img src="./src/assets/logo.svg" alt="GitHub Explorer" width="650px">
 </h1>
 
 <p align="center">
